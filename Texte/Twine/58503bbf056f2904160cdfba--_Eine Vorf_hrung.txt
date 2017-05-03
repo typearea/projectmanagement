@@ -1,0 +1,307 @@
+<tw-storydata name="58503bbf056f2904160cdfba--&gt;Eine Vorführung" startnode="1" creator="Twine" creator-version="2.0.8" ifid="8020CD50-651C-4AB2-810E-065B4CDC2453" format="Harlowe" options=""><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+
+
+
+
+
+
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+
+
+
+
+
+
+</script><tw-passagedata pid="1" name="Klick mich!" tags="ID:start" position="750,0">Na, das ging ja einfach. Wenn du weiter so artig bist, kommen wir gut miteinander aus.
+
+Aber zuerst:
+
+Hallo,
+
+ich bin die Waszulesen-Demonstration. Ich werde versuchen, dir das Konzept zu erklären, das hinter diesem Portal steht.
+
+Auf der vorangegangenen Seite gab es acht Themenfelder, zwischen denen du hättest wählen können. Wie, das hast du gar nicht mitbekommen? Mal wieder typisch! Wenn du versprichst, den Mauszeiger davon weg zu lassen, verrate ich dir, wie du jederzeit zu dieser Auswahl zurückkommen kannst.
+
+[[Ich verspreche es!]]
+[[Zu spät, schon selbst gefunden!]]
+
+</tw-passagedata><tw-passagedata pid="2" name="Ich verspreche es!" tags="ID:1" position="600,203">Ich mag dich immer lieber!
+
+Oben gibt es den Punkt &quot;Menü&quot;. Der öffnet einen Slider links, und dort gibt es die Option &quot;Startseite&quot;.
+Wenn du aus einem Thema heraus auf die Startseite zurückkehrst, wird dein Lesestand innerhalb des Themenfelds gespeichert und du kehrst auf den selben Text zurück, den du zuletzt aufgerufen hast.
+
+Das ist eine wichtige Info, weil WasZuLesen.de sich beliebig verzweigende Geschichten enthält, du dich also schnell in den Geschichten verirren könntest.
+
+Jeder Text endet nämlich mit zwei bis acht Optionen.
+
+[[Schön, ich bin sehr entscheidungsfreudig!(2)&lt;-Schön, ich bin sehr entscheidungsfreudig!]]
+[[Ich hasse es, Entscheidungen zu treffen.(2)&lt;-Ich hasse es, Entscheidungen zu treffen.]]</tw-passagedata><tw-passagedata pid="3" name="Zu spät, schon selbst gefunden!" tags="ID:2" position="910,210">Schlauberger!
+
+Aber auf der ersten Ebene wird dir nicht aufgefallen sein, dass das Themenfeld deinen Lesestand speichert, wenn du es verlässt und auf der Startseite ein Lesezeichenicon erscheint, das markiert, dass du beim erneuten Aufruf des Themenfelds nicht mehr am Anfang, sondern bei deinem zuletzt gelesenen Text landest.
+
+Das ist eine wichtige Info, weil WasZuLesen.de sich beliebig verzweigende Geschichten enthält, du dich also schnell in den Geschichten verirren könntest.
+
+Jeder Text ändet nämlich mit zwei bis acht Optionen.
+
+[[Schön, ich bin sehr entscheidungsfreudig!(3)&lt;-Schön, ich bin sehr entscheidungsfreudig!]]
+[[Ich hasse es, Entscheidungen zu treffen.(3)&lt;-Ich hasse es, Entscheidungen zu treffen.]]</tw-passagedata><tw-passagedata pid="4" name="Schön, ich bin sehr entscheidungsfreudig!(1)" tags="ID:6" position="0,398">Dann bist du hier total richtig!
+
+Bei Dembelo, dem Konzept hinter WasZuLesen.de, geht es nämlich darum, dass der Leser mitentscheidet, wohin und wie eine Geschichte weiter geht. Dabei sind die Entscheidungen sehr unterschiedlich. Manchmal werden sie dir leichter fallen, manchmal schwerer. Einmal entscheidest du über Leben und Tod, dann wieder über die Erzählperspektive. 
+
+Die Entscheidungen werden redaktionell gesetzt und können manchmal ganz klar und sachlich, manchmal reißerisch formuliert sein. Sich auf dieses Spielchen mit den Autoren und Redakteuren einzulassen, gehört zum Lesespaß dazu. 
+
+[[Kann ich mich auch umentscheiden?(1)&lt;-Kann ich mich auch umentscheiden]]
+[[&quot;redaktionell&quot;? Wer ist denn die Redaktion?(1)&lt;-&quot;redaktionell&quot;? Wer ist denn die Redaktion?]]</tw-passagedata><tw-passagedata pid="5" name="Vonwegen versprochen" tags="ID:4" position="80,200">Vonwegen Versprochen!
+
+Aber veräppeln kann ich dich auch. Ich bin nämlich nur eine Clickdemo und muss mich keineswegs genau so verhalten, wie es im fertigen System vorgesehen ist. Ich bin nämlich noch nicht fertig.
+
+Können wir uns jetzt den Optionen zuwenden, ja? Danke, also ...
+
+... am Ende gibt es zwei bis acht Optionen, die dich zu weiteren Texten führen.
+
+[[Schön, ich bin sehr entscheidungsfreudig!(1)&lt;-Schön, ich bin sehr entscheidungsfreudig!]]
+[[Ich hasse es, Entscheidungen zu treffen.(1)&lt;-Ich hasse es, Entscheidungen zu treffen.]]</tw-passagedata><tw-passagedata pid="6" name="Glaubst mir nicht" tags="ID:5" position="1306,211">Glaubst mir kein Wort was?
+
+Aber wieso auch, ich bin ja nur eine Clickdemo und muss mich gar nicht so verhalten, wie es im fertigen System vorgesehen ist. Einfach, weil ich noch gar nicht fertig bin.
+
+Aber können wir uns jetzt den Optionen zuwenden, ja? Danke, also ...
+
+... am Ende gibt es zwei bis acht Optionen, die dich zu weiteren Texten führen.
+
+[[Schön, ich bin sehr entscheidungsfreudig!(4)&lt;-Schön, ich bin sehr entscheidungsfreudig!]]
+[[Ich hasse es, Entscheidungen zu treffen.(4)&lt;-Ich hasse es, Entscheidungen zu treffen.]]</tw-passagedata><tw-passagedata pid="7" name="Schön, ich bin sehr entscheidungsfreudig!(2)" tags="ID:9" position="650,413">Dann bist du hier total richtig!
+
+Bei Dembelo, dem Konzept hinter WasZuLesen.de, geht es nämlich darum, dass der Leser mitentscheidet, wohin und wie eine Geschichte weiter geht. Dabei sind die Entscheidungen sehr unterschiedlich. Manchmal werden sie dir leichter fallen, manchmal schwerer. Einmal entscheidest du über Leben und Tod, dann wieder über die Erzählperspektive. 
+
+Die Entscheidungen werden redaktionell gesetzt und können manchmal ganz klar und sachlich, manchmal reißerisch formuliert sein. Sich auf dieses Spielchen mit den Autoren und Redakteuren einzulassen, gehört zum Lesespaß dazu. 
+
+[[Kann ich mich auch umentscheiden?(2)&lt;-Kann ich mich auch umentscheiden]]
+[[&quot;redaktionell&quot;? Wer ist denn die Redaktion?(2)&lt;-&quot;redaktionell&quot;? Wer ist denn die Redaktion?]]</tw-passagedata><tw-passagedata pid="8" name="Schön, ich bin sehr entscheidungsfreudig!(3)" tags="ID:10" position="775,411">Dann bist du hier total richtig!
+
+Bei Dembelo, dem Konzept hinter WasZuLesen.de, geht es nämlich darum, dass der Leser mitentscheidet, wohin und wie eine Geschichte weiter geht. Dabei sind die Entscheidungen sehr unterschiedlich. Manchmal werden sie dir leichter fallen, manchmal schwerer. Einmal entscheidest du über Leben und Tod, dann wieder über die Erzählperspektive. 
+
+Die Entscheidungen werden redaktionell gesetzt und können manchmal ganz klar und sachlich, manchmal reißerisch formuliert sein. Sich auf dieses Spielchen mit den Autoren und Redakteuren einzulassen, gehört zum Lesespaß dazu. 
+
+[[Kann ich mich auch umentscheiden?(3)&lt;-Kann ich mich auch umentscheiden]]
+[[&quot;redaktionell&quot;? Wer ist denn die Redaktion?(3)&lt;-&quot;redaktionell&quot;? Wer ist denn die Redaktion?]]</tw-passagedata><tw-passagedata pid="9" name="Schön, ich bin sehr entscheidungsfreudig!(4)" tags="ID:13" position="1506,408">Dann bist du hier total richtig!
+
+Bei Dembelo, dem Konzept hinter WasZuLesen.de, geht es nämlich darum, dass der Leser mitentscheidet, wohin und wie eine Geschichte weiter geht. Dabei sind die Entscheidungen sehr unterschiedlich. Manchmal werden sie dir leichter fallen, manchmal schwerer. Einmal entscheidest du über Leben und Tod, dann wieder über die Erzählperspektive. 
+
+Die Entscheidungen werden redaktionell gesetzt und können manchmal ganz klar und sachlich, manchmal reißerisch formuliert sein. Sich auf dieses Spielchen mit den Autoren und Redakteuren einzulassen, gehört zum Lesespaß dazu. 
+
+[[Kann ich mich auch umentscheiden?(4)&lt;-Kann ich mich auch umentscheiden]]
+[[&quot;redaktionell&quot;? Wer ist denn die Redaktion?(4)&lt;-&quot;redaktionell&quot;? Wer ist denn die Redaktion?]]</tw-passagedata><tw-passagedata pid="10" name="Ich hasse es, Entscheidungen zu treffen.(2)" tags="ID:8" position="371,410">Wenn dir jede Entscheidung Bauchschmerzen verursacht, bist du hier ganz schlicht und ergreifend falsch. Aber das heißt nicht, dass du die Inhalte von WasZuLesen.de nicht lesen kannst, du musst ggf. nur etwas länger darauf warten. 
+
+Die Inhalte von WasZuLesen.de sind OpenContent, das heißt, dass sie auf verschiedene Arten weiterverwendet werden können. Eine bereits geplante Funktion ist es, dass entscheidungsfreudigere Leser ihren persönlichen Lesepfad als eBook exportieren können. Möglich ist aber auch, dass Verlage oder Autoren eine Auswahl an Texten aus WasZuLesen.de zu einem Roman zusammenführen und diesen ganz klassisch veröffentlichen. 
+
+Auch können dir Freunde jederzeit ihre Lieblingstexte aus WasZuLesen.de als Link schicken. Die meisten Inhalte funktionieren nämlich auch als ganz simple Kurzgeschichte und können gelesen werden, ohne, dass man sich am Ende irgendwie entscheidet.
+
+Und da du dich ja nicht gerne entscheidest nehme ich dir die Entscheidung an dieser Stelle einfach mal ab und sage, dass du jetzt erfahren wirst, wie die Sache mit dem OpenContent für den Autor funktioniert. 
+
+[[Was bedeutet OpenContent für den Autor?(2)&lt;-Was bedeutet OpenContent für den Autor?]]</tw-passagedata><tw-passagedata pid="11" name="Was bedeutet OpenContent für den Autor?(1)" tags="ID:16" position="231,575">Autoren sind ein merkwürdiges Völkchen. Selber klauen sie wie die Raben und nennen es Inspiration, bei ihrem eigenen Text hat aber die Frage danach, wie sie ihn vor Dieben schützen können, oberste Priotität. 
+
+Diesen ganzen Hickhack wollen wir gar nicht haben und daher müssen alle Texte auf WasZuLesen.de einheitlich unter der Lizenz CC-BY-SA stehen. Damit würden sie zu den Offenen Inhalten gehören und könnten von Anderen ohne einen expliziten Vertrag genutzt werden. 
+
+Für die meisten Autoren ein Horror.
+
+Daher wollen wir ein paar Dinge klarstellen: 
+1. Mit der Lizenzierung CC-BY-SA verliert der Autor keinerlei Rechte. Er kann seinen Text immer noch für Millionen an einen Verlag verkaufen, er kann es immer noch selbst verlegen und er ist der einzige Urheber, den der Text je haben wird.
+2. Das einzige, was sich zur klassischen Lizenzierung ändert, ist, dass fast alles unter 1. durch jeden anderen getan werden kann, ohne dass man eine ganze Rechtsabteilung dafür braucht. Das klingt im ersten Moment vielleicht schrecklich, doch in der Realität ist das Schrecklichste daran die Erkenntnis, dass keiner diese Option nutzen möchte.
+3. Eine offene Lizenzierung macht die Zusammenarbeit zwischen Autoren leichter, dadurch können sich mehrere Autoren zusammenschließen und mit einem gemeinsamen Werk erfolgreicher sein, als sie es einzelnd wären. Allgemein können Kräfte gebündelt werden und Chancen genutzt, die dann allen zu Gute kommen.
+
+Natürlich ist das für Bestsellerautoren alles irrelevant, aber genau darum geht es ja: Wer einen Bestseller schreiben möchte kann dies einfach tun. So wie du mit deinem Unwillen zu Entscheidungen kein WasZuLesen.de Leser werden wirst, werden diese Glücksritter keine WasZuLesen.de Autoren. Unsere Autoren jagen nicht der verschwindendgeringen Chance hinterher, mit einem Buch Millionen zu verdienen, sondern möchten jeden Tag schreiben und jeden Tag dafür bezahlt werden.
+
+[[Was uns zum nächsten Thema führt: die Vorfinanzierung.(1)&lt;-Was uns zum nächsten Thema führt: die Vorfinanzierung.]]</tw-passagedata><tw-passagedata pid="12" name="Was uns zum nächsten Thema führt: die Vorfinanzierung.(1)" tags="ID:30" position="245,775">Wie du siehst, bin ich sehr flexibel. Ich zwinge niemandem etwas auf, was er nicht will. Doch die Tatsache, dass du dich trotz der frühen Feststellung, dass WasZuLesen.de wegen der Entscheidungen nichts für dich ist, immer noch hier durchklickst, zeigt doch, dass die Idee etwas hat, oder?
+
+Aber zur Vorfinanzierung. Wie eben schon festgestellt, ist das Thema Diebstahl unter Autoren ein großes Thema: Wie schütze ich meinen Text nur vor Piraterie? Nun ja, den Text kann man nicht davor schützen. Aber, was noch nicht geschrieben wurde, ist unklaubar. Daher ist es doch viel intelligenter, nicht das zu verkaufen, was man bereits geschrieben hat, sondern die Option darauf, noch mehr zu schreiben. 
+
+Sobald WasZuLesen.de angelaufen ist, sollen die Autoren genauso selbstverständlich bezahlt werden wie die Lektoren, Techniker und Volontäre. Dabei soll das Geld nicht über die bestehenden Texte generiert werden, sondern über das aktuelle Interesse der Leser und ihren Wunsch weiterzulesen. Realisiert wird dies über die Vorfinanzierung. Das heißt, dass die Option auf einen Text mit einem Preis versehen wird, der von den interessierten Lesern erst einmal über Crowdfunding erbracht werden muss, bevor der Text geschrieben wird. Dadurch schreiben Autoren nur das, was auch gelesen werden will, wobei es selbstverständlich zur Profession des Autors gehört, die Leser immer zu überraschen.
+
+Und damit sind wir auch schon am Ende dieses Tutorials. Außer natürlich du möchtest doch noch die Entscheidung treffen, dir anzuschauen, wie das mit den Entscheidungen funktioniert. </tw-passagedata><tw-passagedata pid="13" name="Kann ich mich auch umentscheiden?(2)" tags="ID:50" position="481,616">Klar kannst du, solltest du sogar, weil es hier nicht weiter geht.
+
+Nutze dazu den Pfeil oben links. Er führt dich immer zu dem vorangegangenen Knoten und zwar kostenlos. Was nicht irrelevant ist: Auch wenn es hier in der Clickdemo noch nicht der Fall ist, wird das Rumklicken auf WasZuLesen.de irgendwann Geld kosten. 
+
+Keine Angst, nicht viel. Micropayment nennt sich das. Die Texte sind zwar kostenlos, aber die Navigation durch die hoffentlich bald schier unendliche Weite der Texte soll 10 ct pro Klick kosten.
+
+Zurück ist wie gesagt kostenlos. Doch Achtung, hier kommt das Kleingedruckte: Bei WasZuLesen.de erwirbst du keine Texte, du erwirbst auch kein Nutzungsrecht, im Grunde erwirbst du gar nichts. Du zahlst für eine Dienstleistung, die immer wieder neu erbracht wird, auch wenn du eine Option wählst, die du bereits einmal zahlungspflichtig geöffnet hast. Es ist wie beim Busfahren: Auch wenn du die selbe Strecke immer wieder hin und her fährst, kostet es immer wieder aufs neue Geld. 
+
+Das ist durchaus Absicht und Teil der Idee, wir wollen ja eine unendliche Textmenge generieren, also müssen wir dem Leser auch irgendwie das blödsinnige Bedürfnis austreiben &quot;Alles&quot; lesen zu wollen. In der digitalen Zeit werden wir jeden Tag mit Unmengen an Texten überflutet. Wir können nur glücklich sein, wenn wir lernen, den Texten, die wir nicht lesen, nicht nachzutrauern. Und das Lernen klappt über den Geldbeutel besonders gut.
+
+[[Hast du noch mehr Fragen? (2a)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (2a)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="14" name="&quot;redaktionell&quot;? Wer ist denn die Redaktion?(2)" tags="ID:18" position="606,620">Jeder Themenbereich wird von einem Art Director redaktionell betreut, der dafür Sorge trägt, dass die Texte qualitativ unseren Standards genügen und inhaltlich zueinanderpassen.
+
+Der Art Director legt fest, wie die Texte angeordnet sind und welche Entscheidungsmöglichkeiten es gibt. Außerdem ist er der erste Ansprechpartner der Leser, wenn es um inhaltliche Vorschläge geht. 
+
+Schließlich ist dein Wunsch unser Text.
+
+[[Hast du noch mehr Fragen? (2b)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (2b)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="15" name="Kann ich mich auch umentscheiden?(1)" tags="ID:14" position="7,594">Klar kannst du, solltest du sogar, weil es hier nicht weiter geht.
+
+Nutze dazu den Pfeil oben links. Er führt dich immer zu dem vorangegangenen Knoten und zwar kostenlos. Was nicht irrelevant ist: Auch wenn es hier in der Clickdemo noch nicht der Fall ist, wird das Rumklicken auf WasZuLesen.de irgendwann Geld kosten. 
+
+Keine Angst, nicht viel. Micropayment nennt sich das. Die Texte sind zwar kostenlos, aber die Navigation durch die hoffentlich bald schier unendliche Weite der Texte soll 10 ct pro Klick kosten.
+
+Zurück ist wie gesagt kostenlos. Doch Achtung, hier kommt das Kleingedruckte: Bei WasZuLesen.de erwirbst du keine Texte, du erwirbst auch kein Nutzungsrecht, im Grunde erwirbst du gar nichts. Du zahlst für eine Dienstleistung, die immer wieder neu erbracht wird, auch wenn du eine Option wählst, die du bereits einmal zahlungspflichtig geöffnet hast. Es ist wie beim Busfahren: Auch wenn du die selbe Strecke immer wieder hin und her fährst, kostet es immer wieder aufs neue Geld. 
+
+Das ist durchaus Absicht und Teil der Idee, wir wollen ja eine unendliche Textmenge generieren, also müssen wir dem Leser auch irgendwie das blödsinnige Bedürfnis austreiben &quot;Alles&quot; lesen zu wollen. In der digitalen Zeit werden wir jeden Tag mit Unmengen an Texten überflutet. Wir können nur glücklich sein, wenn wir lernen, den Texten, die wir nicht lesen, nicht nachzutrauern. Und das Lernen klappt über den Geldbeutel besonders gut.
+
+[[Hast du noch mehr Fragen? (1a)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (1a)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="16" name="&quot;redaktionell&quot;? Wer ist denn die Redaktion?(1)" tags="ID:80" position="132,596">Jeder Themenbereich wird von einem Art Director redaktionell betreut, der dafür Sorge trägt, dass die Texte qualitativ unseren Standards genügen und inhaltlich zueinanderpassen.
+
+Der Art Director legt fest, wie die Texte angeordnet sind und welche Entscheidungsmöglichkeiten es gibt. Außerdem ist er der erste Ansprechpartner der Leser, wenn es um inhaltliche Vorschläge geht. 
+
+Schließlich ist dein Wunsch unser Text.
+
+[[Hast du noch mehr Fragen? (1b)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (1b)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="17" name="Kann ich mich auch umentscheiden?(3)" tags="ID:19" position="741,618">Klar kannst du, solltest du sogar, weil es hier nicht weiter geht.
+
+Nutze dazu den Pfeil oben links. Er führt dich immer zu dem vorangegangenen Knoten und zwar kostenlos. Was nicht irrelevant ist: Auch wenn es hier in der Clickdemo noch nicht der Fall ist, wird das Rumklicken auf WasZuLesen.de irgendwann Geld kosten. 
+
+Keine Angst, nicht viel. Micropayment nennt sich das. Die Texte sind zwar kostenlos, aber die Navigation durch die hoffentlich bald schier unendliche Weite der Texte soll 10 ct pro Klick kosten.
+
+Zurück ist wie gesagt kostenlos. Doch Achtung, hier kommt das Kleingedruckte: Bei WasZuLesen.de erwirbst du keine Texte, du erwirbst auch kein Nutzungsrecht, im Grunde erwirbst du gar nichts. Du zahlst für eine Dienstleistung, die immer wieder neu erbracht wird, auch wenn du eine Option wählst, die du bereits einmal zahlungspflichtig geöffnet hast. Es ist wie beim Busfahren: Auch wenn du die selbe Strecke immer wieder hin und her fährst, kostet es immer wieder aufs neue Geld. 
+
+Das ist durchaus Absicht und Teil der Idee, wir wollen ja eine unendliche Textmenge generieren, also müssen wir dem Leser auch irgendwie das blödsinnige Bedürfnis austreiben &quot;Alles&quot; lesen zu wollen. In der digitalen Zeit werden wir jeden Tag mit Unmengen an Texten überflutet. Wir können nur glücklich sein, wenn wir lernen, den Texten, die wir nicht lesen, nicht nachzutrauern. Und das Lernen klappt über den Geldbeutel besonders gut.
+
+[[Hast du noch mehr Fragen? (3a)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (3a)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="18" name="&quot;redaktionell&quot;? Wer ist denn die Redaktion?(3)" tags="ID:60" position="891,615">Jeder Themenbereich wird von einem Art Director redaktionell betreut, der dafür Sorge trägt, dass die Texte qualitativ unseren Standards genügen und inhaltlich zueinanderpassen.
+
+Der Art Director legt fest, wie die Texte angeordnet sind und welche Entscheidungsmöglichkeiten es gibt. Außerdem ist er der erste Ansprechpartner der Leser, wenn es um inhaltliche Vorschläge geht. 
+
+Schließlich ist dein Wunsch unser Text.
+
+[[Hast du noch mehr Fragen? (3b)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (3b)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="19" name="Kann ich mich auch umentscheiden?(4)" tags="ID:23" position="1406,613">Klar kannst du, solltest du sogar, weil es hier nicht weiter geht.
+
+Nutze dazu den Pfeil oben links. Er führt dich immer zu dem vorangegangenen Knoten und zwar kostenlos. Was nicht irrelevant ist: Auch wenn es hier in der Clickdemo noch nicht der Fall ist, wird das Rumklicken auf WasZuLesen.de irgendwann Geld kosten. 
+
+Keine Angst, nicht viel. Micropayment nennt sich das. Die Texte sind zwar kostenlos, aber die Navigation durch die hoffentlich bald schier unendliche Weite der Texte soll 10 ct pro Klick kosten.
+
+Zurück ist wie gesagt kostenlos. Doch Achtung, hier kommt das Kleingedruckte: Bei WasZuLesen.de erwirbst du keine Texte, du erwirbst auch kein Nutzungsrecht, im Grunde erwirbst du gar nichts. Du zahlst für eine Dienstleistung, die immer wieder neu erbracht wird, auch wenn du eine Option wählst, die du bereits einmal zahlungspflichtig geöffnet hast. Es ist wie beim Busfahren: Auch wenn du die selbe Strecke immer wieder hin und her fährst, kostet es immer wieder aufs neue Geld. 
+
+Das ist durchaus Absicht und Teil der Idee, wir wollen ja eine unendliche Textmenge generieren, also müssen wir dem Leser auch irgendwie das blödsinnige Bedürfnis austreiben &quot;Alles&quot; lesen zu wollen. In der digitalen Zeit werden wir jeden Tag mit Unmengen an Texten überflutet. Wir können nur glücklich sein, wenn wir lernen, den Texten, die wir nicht lesen, nicht nachzutrauern. Und das Lernen klappt über den Geldbeutel besonders gut.
+
+[[Hast du noch mehr Fragen? (4a)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (4a)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="20" name="&quot;redaktionell&quot;? Wer ist denn die Redaktion?(4)" tags="ID:24" position="1598,618">Jeder Themenbereich wird von einem Art Director redaktionell betreut, der dafür Sorge trägt, dass die Texte qualitativ unseren Standards genügen und inhaltlich zueinanderpassen.
+
+Der Art Director legt fest, wie die Texte angeordnet sind und welche Entscheidungsmöglichkeiten es gibt. Außerdem ist er der erste Ansprechpartner der Leser, wenn es um inhaltliche Vorschläge geht. 
+
+Schließlich ist dein Wunsch unser Text.
+
+[[Hast du noch mehr Fragen? (4b)&lt;-Hast du noch mehr Fragen?]]
+[[Wann gibt es hier was zu lesen? (4b)&lt;-Wann gibt es hier was zu lesen?]]</tw-passagedata><tw-passagedata pid="21" name="Ich hasse es, Entscheidungen zu treffen.(1)" tags="ID:7" position="246,408">Wenn dir jede Entscheidung Bauchschmerzen verursacht, bist du hier ganz schlicht und ergreifend falsch. Aber das heißt nicht, dass du die Inhalte von WasZuLesen.de nicht lesen kannst, du musst ggf. nur etwas länger darauf warten. 
+
+Die Inhalte von WasZuLesen.de sind OpenContent, das heißt, dass sie auf verschiedene Arten weiterverwendet werden können. Eine bereits geplante Funktion ist es, dass entscheidungsfreudigere Leser ihren persönlichen Lesepfad als eBook exportieren können. Möglich ist aber auch, dass Verlage oder Autoren eine Auswahl an Texten aus WasZuLesen.de zu einem Roman zusammenführen und diesen ganz klassisch veröffentlichen. 
+
+Auch können dir Freunde jederzeit ihre Lieblingstexte aus WasZuLesen.de als Link schicken. Die meisten Inhalte funktionieren nämlich auch als ganz simple Kurzgeschichte und können gelesen werden, ohne, dass man sich am Ende irgendwie entscheidet.
+
+Und da du dich ja nicht gerne entscheidest nehme ich dir die Entscheidung an dieser Stelle einfach mal ab und sage, dass du jetzt erfahren wirst, wie die Sache mit dem OpenContent für den Autor funktioniert. 
+
+[[Was bedeutet OpenContent für den Autor?(1)&lt;-Was bedeutet OpenContent für den Autor?]]</tw-passagedata><tw-passagedata pid="22" name="Ich hasse es, Entscheidungen zu treffen.(3)" tags="ID:11" position="1025,411">Wenn dir jede Entscheidung Bauchschmerzen verursacht, bist du hier ganz schlicht und ergreifend falsch. Aber das heißt nicht, dass du die Inhalte von WasZuLesen.de nicht lesen kannst, du musst ggf. nur etwas länger darauf warten. 
+
+Die Inhalte von WasZuLesen.de sind OpenContent, das heißt, dass sie auf verschiedene Arten weiterverwendet werden können. Eine bereits geplante Funktion ist es, dass entscheidungsfreudigere Leser ihren persönlichen Lesepfad als eBook exportieren können. Möglich ist aber auch, dass Verlage oder Autoren eine Auswahl an Texten aus WasZuLesen.de zu einem Roman zusammenführen und diesen ganz klassisch veröffentlichen. 
+
+Auch können dir Freunde jederzeit ihre Lieblingstexte aus WasZuLesen.de als Link schicken. Die meisten Inhalte funktionieren nämlich auch als ganz simple Kurzgeschichte und können gelesen werden, ohne, dass man sich am Ende irgendwie entscheidet.
+
+Und da du dich ja nicht gerne entscheidest nehme ich dir die Entscheidung an dieser Stelle einfach mal ab und sage, dass du jetzt erfahren wirst, wie die Sache mit dem OpenContent für den Autor funktioniert. 
+
+[[Was bedeutet OpenContent für den Autor?(3)&lt;-Was bedeutet OpenContent für den Autor?]]</tw-passagedata><tw-passagedata pid="23" name="Ich hasse es, Entscheidungen zu treffen.(4)" tags="ID:12" position="1150,411">Wenn dir jede Entscheidung Bauchschmerzen verursacht, bist du hier ganz schlicht und ergreifend falsch. Aber das heißt nicht, dass du die Inhalte von WasZuLesen.de nicht lesen kannst, du musst ggf. nur etwas länger darauf warten. 
+
+Die Inhalte von WasZuLesen.de sind OpenContent, das heißt, dass sie auf verschiedene Arten weiterverwendet werden können. Eine bereits geplante Funktion ist es, dass entscheidungsfreudigere Leser ihren persönlichen Lesepfad als eBook exportieren können. Möglich ist aber auch, dass Verlage oder Autoren eine Auswahl an Texten aus WasZuLesen.de zu einem Roman zusammenführen und diesen ganz klassisch veröffentlichen. 
+
+Auch können dir Freunde jederzeit ihre Lieblingstexte aus WasZuLesen.de als Link schicken. Die meisten Inhalte funktionieren nämlich auch als ganz simple Kurzgeschichte und können gelesen werden, ohne, dass man sich am Ende irgendwie entscheidet.
+
+Und da du dich ja nicht gerne entscheidest nehme ich dir die Entscheidung an dieser Stelle einfach mal ab und sage, dass du jetzt erfahren wirst, wie die Sache mit dem OpenContent für den Autor funktioniert. 
+
+[[Was bedeutet OpenContent für den Autor?(4)&lt;-Was bedeutet OpenContent für den Autor?]]</tw-passagedata><tw-passagedata pid="24" name="Was bedeutet OpenContent für den Autor?(2)" tags="ID:17" position="356,578">Autoren sind ein merkwürdiges Völkchen. Selber klauen sie wie die Raben und nennen es Inspiration, bei ihrem eigenen Text hat aber die Frage danach, wie sie ihn vor Dieben schützen können, oberste Priorität. 
+
+Diesen ganzen Hickhack wollen wir gar nicht haben und daher müssen alle Texte auf WasZuLesen.de einheitlich unter der Lizenz CC-BY-SA stehen. Damit würden sie zu den Offenen Inhalten gehören und könnten von Anderen ohne einen expliziten Vertrag genutzt werden. 
+
+Für die meisten Autoren ein Horror.
+
+Daher wollen wir ein paar Dinge klarstellen: 
+1. Mit der Lizenzierung CC-BY-SA verliert der Autor keinerlei Rechte. Er kann seinen Text immer noch für Millionen an einen Verlag verkaufen, er kann es immer noch selbst verlegen und er ist der einzige Urheber, den der Text je haben wird.
+2. Das einzige, was sich zur klassischen Lizenzierung ändert, ist, dass fast alles unter 1. durch jeden anderen getan werden kann, ohne dass man eine ganze Rechtsabteilung dafür braucht. Das klingt im ersten Moment vielleicht schrecklich, doch in der Realität ist das Schrecklichste daran die Erkenntnis, dass keiner diese Option nutzen möchte.
+3. Eine offene Lizenzierung macht die Zusammenarbeit zwischen Autoren leichter, dadurch können sich mehrere Autoren zusammenschließen und mit einem gemeinsamen Werk erfolgreicher sein, als sie es einzelnd wären. Allgemein können Kräfte gebündelt werden und Chancen genutzt, die dann allen zu Gute kommen.
+
+Natürlich ist das für Bestsellerautoren alles irrelevant, aber genau darum geht es ja: Wer einen Bestseller schreiben möchte kann dies einfach tun. So wie du mit deinem Unwillen zu Entscheidungen kein WasZuLesen.de Leser werden wirst, werden diese Glücksritter keine WasZuLesen.de Autoren. Unsere Autoren jagen nicht der verschwindendgeringen Chance hinterher, mit einem Buch Millionen zu verdienen, sondern möchten jeden Tag schreiben und jeden Tag dafür bezahlt werden.
+
+[[Was uns zum nächsten Thema führt: die Vorfinanzierung.(2)&lt;-Was uns zum nächsten Thema führt: die Vorfinanzierung.]]</tw-passagedata><tw-passagedata pid="25" name="Was bedeutet OpenContent für den Autor?(3)" tags="ID:21" position="1021,596">Autoren sind ein merkwürdiges Völkchen. Selber klauen sie wie die Raben und nennen es Inspiration, bei ihrem eigenen Text hat aber die Frage danach, wie sie ihn vor Dieben schützen können, oberste Priotität. 
+
+Diesen ganzen Hickhack wollen wir gar nicht haben und daher müssen alle Texte auf WasZuLesen.de einheitlich unter der Lizenz CC-BY-SA stehen. Damit würden sie zu den Offenen Inhalten gehören und könnten von Anderen ohne einen expliziten Vertrag genutzt werden. 
+
+Für die meisten Autoren ein Horror.
+
+Daher wollen wir ein paar Dinge klarstellen: 
+1. Mit der Lizenzierung CC-BY-SA verliert der Autor keinerlei Rechte. Er kann seinen Text immer noch für Millionen an einen Verlag verkaufen, er kann es immer noch selbst verlegen und er ist der einzige Urheber, den der Text je haben wird.
+2. Das einzige, was sich zur klassischen Lizenzierung ändert, ist, dass fast alles unter 1. durch jeden anderen getan werden kann, ohne dass man eine ganze Rechtsabteilung dafür braucht. Das klingt im ersten Moment vielleicht schrecklich, doch in der Realität ist das Schrecklichste daran die Erkenntnis, dass keiner diese Option nutzen möchte.
+3. Eine offene Lizenzierung macht die Zusammenarbeit zwischen Autoren leichter, dadurch können sich mehrere Autoren zusammenschließen und mit einem gemeinsamen Werk erfolgreicher sein, als sie es einzelnd wären. Allgemein können Kräfte gebündelt werden und Chancen genutzt, die dann allen zu Gute kommen.
+
+Natürlich ist das für Bestsellerautoren alles irrelevant, aber genau darum geht es ja: Wer einen Bestseller schreiben möchte kann dies einfach tun. So wie du mit deinem Unwillen zu Entscheidungen kein WasZuLesen.de Leser werden wirst, werden diese Glücksritter keine WasZuLesen.de Autoren. Unsere Autoren jagen nicht der verschwindendgeringen Chance hinterher, mit einem Buch Millionen zu verdienen, sondern möchten jeden Tag schreiben und jeden Tag dafür bezahlt werden.
+
+[[Was uns zum nächsten Thema führt: die Vorfinanzierung.(3)&lt;-Was uns zum nächsten Thema führt: die Vorfinanzierung.]]</tw-passagedata><tw-passagedata pid="26" name="Was bedeutet OpenContent für den Autor?(4)" tags="ID:22" position="1158,600">Autoren sind ein merkwürdiges Völkchen. Selber klauen sie wie die Raben und nennen es Inspiration, bei ihrem eigenen Text hat aber die Frage danach, wie sie ihn vor Dieben schützen können, oberste Priotität. 
+
+Diesen ganzen Hickhack wollen wir gar nicht haben und daher müssen alle Texte auf WasZuLesen.de einheitlich unter der Lizenz CC-BY-SA stehen. Damit würden sie zu den Offenen Inhalten gehören und könnten von Anderen ohne einen expliziten Vertrag genutzt werden. 
+
+Für die meisten Autoren ein Horror.
+
+Daher wollen wir ein paar Dinge klarstellen: 
+1. Mit der Lizenzierung CC-BY-SA verliert der Autor keinerlei Rechte. Er kann seinen Text immer noch für Millionen an einen Verlag verkaufen, er kann es immer noch selbst verlegen und er ist der einzige Urheber, den der Text je haben wird.
+2. Das einzige, was sich zur klassischen Lizenzierung ändert, ist, dass fast alles unter 1. durch jeden anderen getan werden kann, ohne dass man eine ganze Rechtsabteilung dafür braucht. Das klingt im ersten Moment vielleicht schrecklich, doch in der Realität ist das Schrecklichste daran die Erkenntnis, dass keiner diese Option nutzen möchte.
+3. Eine offene Lizenzierung macht die Zusammenarbeit zwischen Autoren leichter, dadurch können sich mehrere Autoren zusammenschließen und mit einem gemeinsamen Werk erfolgreicher sein, als sie es einzelnd wären. Allgemein können Kräfte gebündelt werden und Chancen genutzt, die dann allen zu Gute kommen.
+
+Natürlich ist das für Bestsellerautoren alles irrelevant, aber genau darum geht es ja: Wer einen Bestseller schreiben möchte kann dies einfach tun. So wie du mit deinem Unwillen zu Entscheidungen kein WasZuLesen.de Leser werden wirst, werden diese Glücksritter keine WasZuLesen.de Autoren. Unsere Autoren jagen nicht der verschwindendgeringen Chance hinterher, mit einem Buch Millionen zu verdienen, sondern möchten jeden Tag schreiben und jeden Tag dafür bezahlt werden.
+
+[[Was uns zum nächsten Thema führt: die Vorfinanzierung.(4)&lt;-Was uns zum nächsten Thema führt: die Vorfinanzierung.]]</tw-passagedata><tw-passagedata pid="27" name="Was uns zum nächsten Thema führt: die Vorfinanzierung.(2)" tags="ID:31" position="370,798">Wie du siehst, bin ich sehr flexibel. Ich zwinge niemandem etwas auf, was er nicht will. Doch die Tatsache, dass du dich trotz der frühen Feststellung, dass WasZuLesen.de wegen der Entscheidungen nichts für dich ist, immer noch hier durchklickst, zeigt doch, dass die Idee etwas hat, oder?
+
+Aber zur Vorfinanzierung. Wie eben schon festgestellt, ist das Thema Diebstahl unter Autoren ein großes Thema: Wie schütze ich meinen Text nur vor Piraterie? Nun ja, den Text kann man nicht davor schützen. Aber, was noch nicht geschrieben wurde, ist unklaubar. Daher ist es doch viel intelligenter, nicht das zu verkaufen, was man bereits geschrieben hat, sondern die Option darauf, noch mehr zu schreiben. 
+
+Sobald WasZuLesen.de angelaufen ist, sollen die Autoren genauso selbstverständlich bezahlt werden wie die Lektoren, Techniker und Volontäre. Dabei soll das Geld nicht über die bestehenden Texte generiert werden, sondern über das aktuelle Interesse der Leser und ihren Wunsch weiterzulesen. Realisiert wird dies über die Vorfinanzierung. Das heißt, dass die Option auf einen Text mit einem Preis versehen wird, der von den interessierten Lesern erst einmal über Crowdfunding erbracht werden muss, bevor der Text geschrieben wird. Dadurch schreiben Autoren nur das, was auch gelesen werden will, wobei es selbstverständlich zur Profession des Autors gehört, die Leser immer zu überraschen.
+
+Und damit sind wir auch schon am Ende dieses Tutorials. Außer natürlich du möchtest doch noch die Entscheidung treffen, dir anzuschauen, wie das mit den Entscheidungen funktioniert. </tw-passagedata><tw-passagedata pid="28" name="Was uns zum nächsten Thema führt: die Vorfinanzierung.(3)" tags="ID:41" position="1021,746">Wie du siehst, bin ich sehr flexibel. Ich zwinge niemandem etwas auf, was er nicht will. Doch die Tatsache, dass du dich trotz der frühen Feststellung, dass WasZuLesen.de wegen der Entscheidungen nichts für dich ist, immer noch hier durchklickst, zeigt doch, dass die Idee etwas hat, oder?
+
+Aber zur Vorfinanzierung. Wie eben schon festgestellt, ist das Thema Diebstahl unter Autoren ein großes Thema: Wie schütze ich meinen Text nur vor Piraterie? Nun ja, den Text kann man nicht davor schützen. Aber, was noch nicht geschrieben wurde, ist unklaubar. Daher ist es doch viel intelligenter, nicht das zu verkaufen, was man bereits geschrieben hat, sondern die Option darauf, noch mehr zu schreiben. 
+
+Sobald WasZuLesen.de angelaufen ist, sollen die Autoren genauso selbstverständlich bezahlt werden wie die Lektoren, Techniker und Volontäre. Dabei soll das Geld nicht über die bestehenden Texte generiert werden, sondern über das aktuelle Interesse der Leser und ihren Wunsch weiterzulesen. Realisiert wird dies über die Vorfinanzierung. Das heißt, dass die Option auf einen Text mit einem Preis versehen wird, der von den interessierten Lesern erst einmal über Crowdfunding erbracht werden muss, bevor der Text geschrieben wird. Dadurch schreiben Autoren nur das, was auch gelesen werden will, wobei es selbstverständlich zur Profession des Autors gehört, die Leser immer zu überraschen.
+
+Und damit sind wir auch schon am Ende dieses Tutorials. Außer natürlich du möchtest doch noch die Entscheidung treffen, dir anzuschauen, wie das mit den Entscheidungen funktioniert. </tw-passagedata><tw-passagedata pid="29" name="Was uns zum nächsten Thema führt: die Vorfinanzierung.(4)" tags="ID:42" position="1158,750">Wie du siehst, bin ich sehr flexibel. Ich zwinge niemandem etwas auf, was er nicht will. Doch die Tatsache, dass du dich trotz der frühen Feststellung, dass WasZuLesen.de wegen der Entscheidungen nichts für dich ist, immer noch hier durchklickst, zeigt doch, dass die Idee etwas hat, oder?
+
+Aber zur Vorfinanzierung. Wie eben schon festgestellt, ist das Thema Diebstahl unter Autoren ein großes Thema: Wie schütze ich meinen Text nur vor Piraterie? Nun ja, den Text kann man nicht davor schützen. Aber, was noch nicht geschrieben wurde, ist unklaubar. Daher ist es doch viel intelligenter, nicht das zu verkaufen, was man bereits geschrieben hat, sondern die Option darauf, noch mehr zu schreiben. 
+
+Sobald WasZuLesen.de angelaufen ist, sollen die Autoren genauso selbstverständlich bezahlt werden wie die Lektoren, Techniker und Volontäre. Dabei soll das Geld nicht über die bestehenden Texte generiert werden, sondern über das aktuelle Interesse der Leser und ihren Wunsch weiterzulesen. Realisiert wird dies über die Vorfinanzierung. Das heißt, dass die Option auf einen Text mit einem Preis versehen wird, der von den interessierten Lesern erst einmal über Crowdfunding erbracht werden muss, bevor der Text geschrieben wird. Dadurch schreiben Autoren nur das, was auch gelesen werden will, wobei es selbstverständlich zur Profession des Autors gehört, die Leser immer zu überraschen.
+
+Und damit sind wir auch schon am Ende dieses Tutorials. Außer natürlich du möchtest doch noch die Entscheidung treffen, dir anzuschauen, wie das mit den Entscheidungen funktioniert. </tw-passagedata><tw-passagedata pid="30" name="Hast du noch mehr Fragen? (2a)" tags="ID:33" position="496,795">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="31" name="Wann gibt es hier was zu lesen? (2a)" tags="ID:34" position="621,801">Momentan ist das WasZuLesen.de-Team fleißig dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="32" name="Hast du noch mehr Fragen? (1a)" tags="ID:28" position="125,900">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="33" name="Hast du noch mehr Fragen? (3a)" tags="ID:37" position="746,765">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="34" name="Wann gibt es hier was zu lesen? (3a)" tags="ID:38" position="881,765">Momentan ist das WasZuLesen.de-Team fleißig dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem (Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="35" name="Hast du noch mehr Fragen? (4a)" tags="ID:43" position="1406,763">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="36" name="Wann gibt es hier was zu lesen? (4a)" tags="ID:45" position="1556,763">Momentan ist das WasZuLesen.de-Team fleißig dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="37" name="Hast du noch mehr Fragen? (1b)" tags="ID:29" position="20,1026">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="38" name="Wann gibt es hier was zu lesen? (1b)" tags="ID:32" position="383,1023">Momentan sind wir dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+</tw-passagedata><tw-passagedata pid="39" name="Wann gibt es hier was zu lesen? (1a)" tags="ID:26" position="0,871">Momentan ist das WasZuLesen.de-Team fleißig dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="40" name="Hast du noch mehr Fragen? (2b)" tags="ID:35" position="563,1015">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="41" name="Wann gibt es hier was zu lesen? (2b)" tags="ID:36" position="695,1001">Momentan sind wir dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter) an.
+
+</tw-passagedata><tw-passagedata pid="42" name="Hast du noch mehr Fragen? (3b)" tags="ID:39" position="863,1005">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="43" name="Wann gibt es hier was zu lesen? (3b)" tags="ID:40" position="1011,1005">Momentan sind wir dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+</tw-passagedata><tw-passagedata pid="44" name="Hast du noch mehr Fragen? (4b)" tags="ID:47" position="1443,988">Die kleine Vorführung hat nicht alle deine Fragen beantwortet? Kein Problem: Schreib uns einfach eine E-Mail mit deiner Frage an info[at]dembelo.de und schon bald flattert die Antwort in dein E-Mail-Postfach.
+
+Hier endet die kleine Vorführung – ich hoffe, es hat dir gefallen, und du besuchst WasZuLesen.de bald wieder.</tw-passagedata><tw-passagedata pid="45" name="Wann gibt es hier was zu lesen? (4b)" tags="ID:48" position="1660,990">Momentan sind wir dabei, mehrere Themenbereiche inhaltlich aufzubauen. Aber gut Ding will Weile haben. Wenn du unseren offiziellen Start nicht verpassen willst, melde dich bei unserem Newsletter (https://www.dembelo.de/blog/newsletter/) an.
+
+</tw-passagedata></tw-storydata>
